@@ -3,7 +3,7 @@
 TESL/IT 복수전공 | 데이터 흐름을 설계하고 서비스로 구현하는 개발자
 
 ## 기술 스택
-- **Frontend:** React, TypeScript, JavaScript, HTML/CSS
+- **Frontend:** React, TypeScript, JavaScript, HTML/CSS, Figma
 - **Backend:** Python (FastAPI), MySQL
 - **Deployment:** Docker, GCP Cloud Run, Vercel, Git/GitHub
 - **자격증:** SQLD, AWS SAA, TOEIC 890
